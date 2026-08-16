@@ -48,16 +48,24 @@ Here are some ideas to get you started:
 ![Ragas](https://img.shields.io/badge/Ragas-Evaluation-6366F1?style=for-the-badge)
 
 ---
-### 📊 GitHub Activity & Metrics
+<!--
+### 📊 Languages & Engineering Focus
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhrajyoti8520&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhrajyoti8520&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhrajyoti8520&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhrajyoti8520&theme=tokyonight&hide_border=true&area=true&hide_title=false" alt="Activity Momentum" width="48%" />
 </p>
+-->
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Subhrajyoti8520&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
+### ⚡ Systems Architecture & Technical Competencies
+
+| Engineering Pillar | Key Implementations & Patterns |
+| :--- | :--- |
+| **Multi-Agent AI Systems** | Framework-free runtime engines, dynamic LLM routing, deterministic DAG state machines, structured tool calling. |
+| **Enterprise RAG & Retrieval** | Hybrid search (Dense + Sparse), Cross-Encoder re-ranking, vector indexing with ChromaDB & Qdrant. |
+| **Evaluation & Quality Benchmarking** | Ragas framework, automated LLM-as-a-Judge test suites, faithfulness & context precision scoring. |
+| **Model Adaptation & PEFT** | LoRA/QLoRA instruction fine-tuning, Hugging Face PEFT vs. Unsloth Triton acceleration, loss tracking. |
+| **AI Backend & Infrastructure** | Asynchronous REST APIs with FastAPI, Pydantic validation, SQLite/Vector persistence, Docker containerization. |
 
 ---
 
