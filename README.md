@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   - `LLM Fine-Tuning & Core DL` • Comparative LoRA/QLoRA pipelines (HF PEFT vs. Unsloth) & custom autograd engines
   - `High-Throughput Backends` • Containerized asynchronous APIs with FastAPI & Docker
 - 💼 **Focus Areas:** Autonomous Multi-Agent Systems • LLM-as-a-Judge & RAGAS Evaluation(RAGAS) • PEFT (LoRA / QLoRA) • Low-Latency FastAPI Backends • Containerized LLMOps(Docker).
-- 📫 **Contact:** [LinkedIn](www.linkedin.com/in/subhrajyoti-soumyadarsan) • [Email](mailto:soumyadarsansubhrajyoti@gmail.com)
-  
+- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/subhrajyoti-soumyadarsan) • [Email](https://mail.google.com/mail/?view=cm&fs=1&to=soumyadarsansubhrajyoti@gmail.com)
+    
 ---
 ### 🛠️ Languages & Core Technologies
 
