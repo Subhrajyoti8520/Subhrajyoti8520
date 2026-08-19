@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 ![Unsloth](https://img.shields.io/badge/Unsloth-000000?style=for-the-badge&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Ragas](https://img.shields.io/badge/Ragas-Evaluation-6366F1?style=for-the-badge)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-0052CC?style=for-the-badge)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 
 ---
 <!--
@@ -76,5 +80,6 @@ Here are some ideas to get you started:
 | **[`autonomous-multiagent-engine`](https://github.com/Subhrajyoti8520/autonomous-multiagent-engine)** | Multi-Agent AI Systems | Framework-free runtime engine with dual-mode execution (Dynamic LLM Routing vs. Deterministic State Machines), structured tool dispatch, and integrated RAG. |
 | **[`llm-code-transpiler-tool`](https://github.com/Subhrajyoti8520/llm-code-transpiler-tool)** | Code Gen & Tool Calling | Python-to-C++/Rust transpilation engine using AST grammar parsing, LLM tool execution, and benchmarked runtime speedups. |
 | **[`enterprise-rag-evaluation`](https://github.com/Subhrajyoti8520/enterprise-rag-evaluation)** | Production RAG & LLMOps | Enterprise retrieval pipeline with hybrid search & re-ranking; automated evaluation via Ragas and LLM-as-a-Judge; containerized FastAPI service with Docker. |
-| **[`llm-finetuning-unsloth`](https://github.com/Subhrajyoti8520/llm-finetuning-unsloth)** | Model Adaptation & PEFT | LoRA/QLoRA parameter-efficient fine-tuning on Llama models comparing Hugging Face PEFT vs. Unsloth kernels with loss convergence tracking. |
-| **[`deep-learning-cv-foundations`](https://github.com/Subhrajyoti8520/deep-learning-cv-foundations)** | Deep Learning Foundations | PyTorch vision models, dataset sanitization pipelines, and scalar autograd engine built from scratch with reverse-mode backpropagation. |
+| **[`ecommerce-price-cot-finetuning`](https://github.com/Subhrajyoti8520/ecommerce-price-cot-finetuning)** | SLM Fine-Tuning & MLOps | End-to-end pipeline contrasting direct regression (Llama 3.2) with a Chain-of-Thought engine (Qwen 2.5); features Unsloth Triton acceleration and 4-bit GGUF export for local Docker/Ollama deployment. |
+| **[`pytorch-deep-learning-foundations`](https://github.com/Subhrajyoti8520/pytorch-deep-learning-foundations)** | PyTorch & NN Architecture | A production-grade, end-to-end deep learning and computer vision repository covering fundamental tensor mathematics, custom neural architectures, non-linear classification, convolutional vision pipelines (TinyVGG), dynamic data augmentation, device-agnostic GPU acceleration and modular CLI-driven training engines. |
+| **[`deep-learning-cv-foundations`](https://github.com/Subhrajyoti8520/deep-learning-cv-foundations)** | Deep Learning Foundations | A curated collection of modular, production-focused deep learning implementations and computer vision labs. This repository covers end-to-end workflows: automated data scraping, dataset verification, transfer learning backbones, pixel-level semantic segmentation, categorical tabular embeddings, collaborative filtering, error diagnosis, and standalone model serialization. |
